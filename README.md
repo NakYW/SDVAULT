@@ -21,7 +21,7 @@ models/ldm/stable-diffusion-1.5/
 
 ### Dataset
 
-Our curated dataset can be obtained here:[data]([https://drive.google.com/drive/folders/1kCAR8hPgSFtplsudqIm5GZt0Rh7nA386)]  <br>  
+Our curated dataset can be obtained here:[data]([(https://drive.google.com/drive/folders/1kCAR8hPgSFtplsudqIm5GZt0Rh7nA386))]  <br>  
 
 
 ## Run
@@ -61,4 +61,5 @@ python eval_artfid.py --sty ../data/sty_eval --cnt ../data/cnt_eval --tar ../out
 cd evaluation;
 python eval_histogan.py --sty ../data/sty_eval --tar ../output
 ```
+
 
