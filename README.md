@@ -53,7 +53,5 @@ cd evaluation
 python eval_histogan.py --sty ../data/sty_eval --tar ../output
 
 
-## Citation
 
-If you find this work useful, please cite:
 
